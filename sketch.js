@@ -88,7 +88,7 @@ function preload(){
   
 
 
- las  = loadSound('Sounds/Laser_Shoot.mp3');
+ las  = loadSound('Laser_Shoot.mp3');
   
  score = 0; 
 
